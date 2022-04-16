@@ -1,1 +1,1 @@
-# infinitegame-shrey
+# Own-infinite-game
